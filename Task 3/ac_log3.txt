@@ -1,0 +1,5 @@
+Room	Temperature (°C)	Action
+Living Room: 24°C - AC is ON
+Bedroom: 20°C - AC is OFF
+Kitchen: 27°C - AC is ON
+Office: 22°C - AC is OFF
